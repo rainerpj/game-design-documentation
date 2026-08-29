@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏策划案框架"
+  short_description: "建立、维护、审查并交付可复用的完整游戏项目策划案体系"
+  default_prompt: "Use $game-design-documentation to establish a complete, traceable game design document system for this project."
